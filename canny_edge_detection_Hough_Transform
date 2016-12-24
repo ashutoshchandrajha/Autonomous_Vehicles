@@ -1,4 +1,4 @@
-
+__author__ = 'ashutoshjha'
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
